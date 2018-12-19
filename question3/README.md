@@ -5,3 +5,9 @@
 Compile Steps:
 
 Output:
+
+gcc question3.c
+./a.out
+first strend 0
+second strend 0
+third strend 0
