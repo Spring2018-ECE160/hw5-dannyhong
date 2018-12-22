@@ -5,3 +5,9 @@
 Compile Steps:
 
 Output:
+
+gcc question4.c 
+./a.out
+my_strncmp(Danny, Hong, 2) = -4
+my_strncat(Danny, Hong, 3) = DannyHong
+my_strncpy(Danny, Hong, 4) = Hong
